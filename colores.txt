@@ -1,0 +1,6 @@
+rgb(254, 247, 241) fondo beis clarito
+
+#661414 color cerezo
+
+#2e6417 verde logo
+
